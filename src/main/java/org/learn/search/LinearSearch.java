@@ -1,6 +1,9 @@
-package org.learn;
+package org.learn.search;
 
 public class LinearSearch {
+
+
+    // Big O Notation - O(n)
 
     public static void main(String[] args) {
 
