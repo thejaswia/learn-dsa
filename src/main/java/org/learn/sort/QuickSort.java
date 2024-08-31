@@ -3,6 +3,7 @@ package org.learn.sort;
 public class QuickSort {
 
     // Big O Notation - O(n log n)
+    //In worst case it can go to - O( n^2)
 
     // Divide and concour
 
